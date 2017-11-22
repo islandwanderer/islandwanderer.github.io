@@ -21,9 +21,9 @@
 
 <p id="milestone1Info"><a href="https://github.com/islandwanderer/islandwanderer/projects/1">Milestone 1's</a> purpose was to improve project management by dividing the project up into multiple issues and equally distributing them amongst the group members. For the first Milestone, each group member was assigned the task of creating multiple pages necessary for the functionality of the website. Each page needed to be accessible inside the app and contain the same organization as the other pages. Furthermore, the website must have a functional landing page that contained a method of login that allowed only UH students to access to the website. The website was then deployed to <a href="https://galaxy.meteor.com/app/islandwanderer.meteorapp.com">galaxy</a>.</p>
 
-<p id="milestone1Issues">Eight pages were initially deemed vital to the functionality of the website: Landing Page, User Home Page, Event Page, Create Event Page, Administrator Page, User Calendar, Message Page, and Edit Profile Page. Below is a description of each paage as well as a picture of each page.</p>
+<p id="milestone1Issues">Eight pages were initially deemed vital to the functionality of the website: Landing Page, User Home Page, Event Page, Create Event Page, Administrator Page, User Calendar, Message Page, and Edit Profile Page. Below is a description of each page as well as a picture of each page.</p>
 
-<h4 id="milestone1Mockups">Mockups.</h4>
+<h4 id="milestone1Mockups">Mockups</h4>
 
 ![user_homepage](https://user-images.githubusercontent.com/31559898/33109275-c485dd9a-cee4-11e7-84f5-e752a1cb7797.png)
 ![message_page](https://user-images.githubusercontent.com/31559898/33109276-c4b83ce0-cee4-11e7-8756-d4fef46c63eb.png)
