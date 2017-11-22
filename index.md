@@ -4,7 +4,7 @@
 <ul>
  <li><a href="#milestone1Info">About</a></li>
  <li><a href="#milestone1Issues">Issues</a></li>
- <li><a href="#milestone2Mockups">Mockups</a></li>
+ <li><a href="#milestone1Mockups">Mockups</a></li>
 </ul>
 <h4><a href="#milestone2">Milestone 2</a></h4>
 
