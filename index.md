@@ -28,6 +28,8 @@
 ![user_homepage](https://user-images.githubusercontent.com/31559898/33109275-c485dd9a-cee4-11e7-84f5-e752a1cb7797.png)
 ![message_page](https://user-images.githubusercontent.com/31559898/33109276-c4b83ce0-cee4-11e7-8756-d4fef46c63eb.png)
 ![profile_page](https://user-images.githubusercontent.com/31559898/33109277-c4de18c0-cee4-11e7-82ff-fe994366f4b2.png)
+![calendar page](https://user-images.githubusercontent.com/31399883/33113021-473ebd96-cefa-11e7-887c-373a19369793.png)
+![landing page](https://user-images.githubusercontent.com/31399883/33113022-4760a514-cefa-11e7-9d49-37f21c3c7bbb.png)
 
 
 
