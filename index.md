@@ -24,3 +24,7 @@
 <h2 id="milestone2">Milestone 2</h2>
 
 
+![user_homepage](https://user-images.githubusercontent.com/31559898/33109206-58b7be26-cee4-11e7-9f1c-699264025c00.png)
+![landing_page](https://user-images.githubusercontent.com/31559898/33109207-58d9a720-cee4-11e7-92eb-5bc7d0d154dd.png)
+![message_page](https://user-images.githubusercontent.com/31559898/33109208-58ffe6b0-cee4-11e7-9090-91ad1f0e71a1.png)
+![profile_page](https://user-images.githubusercontent.com/31559898/33109209-59243b82-cee4-11e7-9e33-32dff9d063f2.png)
