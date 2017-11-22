@@ -24,13 +24,21 @@
 <p id="milestone1Issues">Eight pages were initially deemed vital to the functionality of the website: Landing Page, User Home Page, Event Page, Create Event Page, Administrator Page, User Calendar, Message Page, and Edit Profile Page. Below is a description of each page as well as a picture of each page.</p>
 
 <h4 id="milestone1Mockups">Mockups</h4>
+The <a href="http://islandwanderer.meteorapp.com/">landing page</a> of the website has a small bit of information about the website and allows UH students to log in.
 
-![user_homepage](https://user-images.githubusercontent.com/31559898/33109275-c485dd9a-cee4-11e7-84f5-e752a1cb7797.png)
-![message_page](https://user-images.githubusercontent.com/31559898/33109276-c4b83ce0-cee4-11e7-8756-d4fef46c63eb.png)
+![landing page](https://user-images.githubusercontent.com/31399883/33113157-fedcc01a-cefa-11e7-992c-01a8a5570fc8.png)
+
+Students are then taken to their <a href="http://islandwanderer.meteorapp.com/nmeinzen/profile">profile page</a> where they can enter their information. Students must enter their name and their email address. They can add other contact info such as facebook, slack, twitter, etc. to their account if they would like. 
 ![profile_page](https://user-images.githubusercontent.com/31559898/33109277-c4de18c0-cee4-11e7-82ff-fe994366f4b2.png)
 
+Students can then check their <a href="http://islandwanderer.meteorapp.com/nmeinzen/message">messages</a>, which will show all messages from groups they are apart of.
+![message_page](https://user-images.githubusercontent.com/31559898/33109276-c4b83ce0-cee4-11e7-8756-d4fef46c63eb.png)
+
+Next students can go to their <a href="http://islandwanderer.meteorapp.com/nmeinzen/home">home page</a>, which will show all new posts/events created, and if they are interetsed, they can join an event, or add a new event. 
+![user_homepage](https://user-images.githubusercontent.com/31559898/33109275-c485dd9a-cee4-11e7-84f5-e752a1cb7797.png)
+
+Finally, students can check their personal <a href="http://islandwanderer.meteorapp.com/nmeinzen/calendar">calendar</a>, which will show all events they have said they are going to attend.
 ![calendar page](https://user-images.githubusercontent.com/31399883/33113156-fec4f84a-cefa-11e7-8e05-fd0549ca1c19.png)
-![landing page](https://user-images.githubusercontent.com/31399883/33113157-fedcc01a-cefa-11e7-992c-01a8a5570fc8.png)
 
 
 
