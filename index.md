@@ -52,6 +52,10 @@ Finally, students can check their personal <a href="http://islandwanderer.meteor
 
 <p id="milestone2Issues">Insert Issue info here.(coming soon)</p>
 
+![profile_page](/images/profile.png)<br>
+
+Profile page is similar to bowfolio app. The only difference is email of the newly signed up user is auto-populated. 
+
 ![message_page](./images/message.png)<br>
 
 Message is a simple chat app where a user can choose any of the event they are subscribed to and enter the message board for the event. The event selection field is set a a reactiveDict. As any modern chat app, users message is aligned to the right and everyone else message is aligned to the left. The app further distinguishes different users with different background color on their message. A simple hash of username has been used to classify users into 7 different colors. Base collection has additional method called filter() which does filters message documents by events. As expected from any chat app, upon submition of message, messages field clears but event field does not. Clearing message was straight-forward task. However, reactive flag had to be set to the selected event after each message is entered.
