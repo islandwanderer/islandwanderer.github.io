@@ -34,7 +34,7 @@ Students are then taken to their <a href="http://islandwanderer.meteorapp.com/nm
 
 Students can then check their <a href="http://islandwanderer.meteorapp.com/nmeinzen/message">messages</a>, which will show all messages from groups they are apart of.
 
-![message_page](./images/message.png)<br>
+![message_page](https://user-images.githubusercontent.com/31559898/33109276-c4b83ce0-cee4-11e7-8756-d4fef46c63eb.png)<br>
 
 Next students can go to their <a href="http://islandwanderer.meteorapp.com/nmeinzen/home">home page</a>, which will show all new posts/events created, and if they are interetsed, they can join an event, or add a new event. 
 
@@ -42,14 +42,28 @@ Next students can go to their <a href="http://islandwanderer.meteorapp.com/nmein
 
 Finally, students can check their personal <a href="http://islandwanderer.meteorapp.com/nmeinzen/calendar">calendar</a>, which will show all events they have said they are going to attend.
 
-![calendar page](./images/calendar.png)<br>
+![calendar page](https://user-images.githubusercontent.com/31399883/33113156-fec4f84a-cefa-11e7-8e05-fd0549ca1c19.png)<br>
 
 
 
 <h2 id="milestone2">Milestone 2</h2>
-
+ 
 <p id="milestone2Info"><a href="https://github.com/islandwanderer/islandwanderer/projects/2">Milestone 2</a> Insert info about milestone 2 here.(coming soon)</p>
 
 <p id="milestone2Issues">Insert Issue info here.(coming soon)</p>
+
+![message_page](./images/message.png)<br>
+
+Message is a simple chat app where a user can choose any of the event they are subscribed to and enter the message board for the event. The event selection field is set a a reactiveDict. As any modern chat app, users message is aligned to the right and everyone else message is aligned to the left. The app further distinguishes different users with different background color on their message. A simple hash of username has been used to classify users into 7 different colors. Base collection has additional method called filter() which does filters message documents by events. As expected from any chat app, upon submition of message, messages field clears but event field does not. Clearing message was straight-forward task. However, reactive flag had to be set to the selected event after each message is entered.
+
+Future enhancement could include a sophisticated hash function that minimizes collision. Other enhancements could count number of unread messages on each of the event user is subscribed to.
+
+![calendar page](./images/calendar.png)<br>
+
+Calendar is built on fullcalendar package. Calendar page also required sub-tempate to render as expected. The event collection of the app did not meet the requirement of events constructor of the package. A function to convert relevant documents from event collection into an array of objects enabled fullcalendar events constructor to display events in the calendar. 
+
+Future enhancements could include routing event creator to event message page when the event is clicked on the calendar. Other enhancements to the calendar page could be routing to create event page when user clicks on the calendar space with no events.
+
+
 
 
