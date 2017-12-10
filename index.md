@@ -34,7 +34,7 @@ Students are then taken to their <a href="http://islandwanderer.meteorapp.com/nm
 
 Students can then check their <a href="http://islandwanderer.meteorapp.com/nmeinzen/message">messages</a>, which will show all messages from groups they are apart of.
 
-![message_page](https://user-images.githubusercontent.com/31559898/33109276-c4b83ce0-cee4-11e7-8756-d4fef46c63eb.png)<br>
+![message_page](./images/message.png)<br>
 
 Next students can go to their <a href="http://islandwanderer.meteorapp.com/nmeinzen/home">home page</a>, which will show all new posts/events created, and if they are interetsed, they can join an event, or add a new event. 
 
