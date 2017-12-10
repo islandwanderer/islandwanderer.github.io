@@ -42,7 +42,7 @@ Next students can go to their <a href="http://islandwanderer.meteorapp.com/nmein
 
 Finally, students can check their personal <a href="http://islandwanderer.meteorapp.com/nmeinzen/calendar">calendar</a>, which will show all events they have said they are going to attend.
 
-![calendar page](https://user-images.githubusercontent.com/31399883/33113156-fec4f84a-cefa-11e7-8e05-fd0549ca1c19.png)<br>
+![calendar page](./images/calendar.png)<br>
 
 
 
