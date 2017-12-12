@@ -66,18 +66,26 @@ Students can also check their personal calendar. If the student is signed choose
 
 ![message_page](./images/message.png)<br>
 
-Students can then check theirmessages, which will show all messages from groups they are apart of.
+Students can then check their messages, which will show all messages from groups they are apart of.
 
 
 <h2 id="developerguide">Development</h2>
 <h4 id="history">Development History</h4>
+<p>In order to successfully create a working application, the building process was split into multiple tasks. The first task, Milestone 1, focused on building the foundation for the application. The second task, Milestone 2, focused on refining the foundation and increasing its functionality. Below document each task.
 <h5 id="m1">Milestone 1</h5>
+<a href="https://github.com/islandwanderer/islandwanderer/projects/1">Milestone 1's</a> purpose was to create HTML/CSS mockups of each of the pages needed for the projects. They did not have to provide functionality, but had to be integrated into the Meteor app. Each page was assigned as an issue and had to be complete within 2 weeks of the assinged date. Below are screenshots of the pages implemented.
+![user_homepage](https://user-images.githubusercontent.com/31559898/33109275-c485dd9a-cee4-11e7-84f5-e752a1cb7797.png)
+![landing page](https://user-images.githubusercontent.com/31399883/33113157-fedcc01a-cefa-11e7-992c-01a8a5570fc8.png)
+![profile_page](/images/profile.png)
+![calendar page](https://user-images.githubusercontent.com/31399883/33113156-fec4f84a-cefa-11e7-8e05-fd0549ca1c19.png)
+![message_page](https://user-images.githubusercontent.com/31559898/33109276-c4b83ce0-cee4-11e7-8756-d4fef46c63eb.png)
+
+                                                                    
 <h5 id="m2">Milestone 2</h5>
+<a href="https://github.com/islandwanderer/islandwanderer/projects/2">Milestone 2's</a> purpose was to provide functionality to the mockup pages created in Milestone 1. Once each page was completed and functionality had been tested, the app was deployed to <a href="https://galaxy.meteor.com/app/islandwanderer.meteorapp.com">galaxy</a>.
+
 <h4 id="guide">Developer Guide</h4>
-
-
-The website was then deployed to <a href="https://galaxy.meteor.com/app/islandwanderer.meteorapp.com">galaxy</a>.</p>
-><a href="https://github.com/islandwanderer/islandwanderer/projects/2">Milestone 2</a> 
+<p></p>
 
 <h2 id="feedback">Community Feedback</h2>
 
