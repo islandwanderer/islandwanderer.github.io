@@ -1,7 +1,6 @@
 <h1>Table of Contents</h1>
-<h4><a href="#overview">Overvieww</a></h4>
+<h4><a href="#overview">Overview</a></h4>
 <h4><a href="#userguide">User Guide</a></h4>
-
 <ul>
  <li><a href="#landing">Landing Page</a></li>
  <li><a href="#profile">Profile Page</a></li>
@@ -10,17 +9,16 @@
  <li><a href="#calendar">Calendar Page</a></li>
  <li><a href="#message">Message Page</a></li>
 </ul>
-
-<h4><a href="#developerguide">Developer Guide</a></h4>
-
-<h4><a href="#feedback">Community Feedback</a></h4>
-
-
-<h4><a href="#milestone2">Milestone 2</a></h4>
+<h4><a href="#developerguide">Development</a></h4>
 <ul>
- <li><a href="#milestone2Info">About</a></li>
- <li><a href="#milestone2Issues">Issues</a></li>
+ <li><a href="#history">Development History</a></li>
+ <ul>
+  <li><a href="#m1">Milestone 1</a></li>
+  <li><a href="#m2">Milestone 2</a></li>
+ </ul>
+ <li><a href="#guide">Developer Guide</a></li>
 </ul>
+<h4><a href="#feedback">Community Feedback</a></h4>
 
 <h2 id="overview">Overview</h2>
 <p><a href="https://github.com/islandwanderer/islandwanderer">Island Wanderer</a> is the perfect website for University of Hawaii students who want to explore the islands of Hawaii with other students. The Hawaiian Islands have a lot to offer, from hiking to snorkeling to luaus to relaxing at the beach. However, sometimes it can be hard to organize a group of people to go explore these places. Island Wanderer is here to solve this problem. Students can form groups to go on adventures together, creating countless unforgettable memories while meeting new people along the way.</p>
@@ -32,7 +30,7 @@
 <p>Students are able to log into the website and are immediately taken to the home page, which shows postings from other students, starting with the most recent posting. Users can then filter the postings by tags - locations, dates, people, etc. Students will have the option to save posts, message the poster, or post something themselves. They can also comment on a post. Students will also have access to a personal calendar, which will hold all the events the student wants to attend. Two ways to add events to the calendar is through manually entering an event, or directly addiing an event from a post. Furthermore, students can start private messages with other students, should they have any specific questions about a post or activity. Because students don't have to "friend" other students to see their posts/directly message them, there will be the option to block certain students, should there be any issues. </p>
 
 
-<p id="milestone1Info"><a href="https://github.com/islandwanderer/islandwanderer/projects/1">Milestone 1's</a> purpose was to improve project management by dividing the project up into multiple issues and equally distributing them amongst the group members. For the first Milestone, each group member was assigned the task of creating multiple pages necessary for the functionality of the website. Each page needed to be accessible inside the app and contain the same organization as the other pages. Furthermore, the website must have a functional landing page that contained a method of login that allowed only UH students to access to the website. The website was then deployed to <a href="https://galaxy.meteor.com/app/islandwanderer.meteorapp.com">galaxy</a>.</p>
+
 
 
 <h4 id="landing">Landing Page</h4>
@@ -42,10 +40,10 @@ The <a href="http://islandwanderer.meteorapp.com/">landing page</a> of the websi
 
 
 <h4 id="profile">Profile Page</h4>
+
+![profile_page](/images/profile.png)<br>
+
 Students are then taken to their <a href="http://islandwanderer.meteorapp.com/nmeinzen/profile">profile page</a> where they can enter their information. Students must enter their name and their email address. They can add other contact info such as facebook, slack, twitter, etc. to their account if they would like.
-
-![profile_page](https://user-images.githubusercontent.com/31559898/33109277-c4de18c0-cee4-11e7-82ff-fe994366f4b2.png)<br>
-
 
 
 <h4 id="home">Home Page</h4>
@@ -71,17 +69,19 @@ Students can also check their personal calendar. If the student is signed choose
 Students can then check theirmessages, which will show all messages from groups they are apart of.
 
 
-<h2 id="developerguide">Developer Guide</h2>
+<h2 id="developerguide">Development</h2>
+<h4 id="history">Development History</h4>
+<h5 id="m1">Milestone 1</h5>
+<h5 id="m2">Milestone 2</h5>
+<h4 id="guide">Developer Guide</h4>
+
+
+The website was then deployed to <a href="https://galaxy.meteor.com/app/islandwanderer.meteorapp.com">galaxy</a>.</p>
+><a href="https://github.com/islandwanderer/islandwanderer/projects/2">Milestone 2</a> 
 
 <h2 id="feedback">Community Feedback</h2>
 
 
-
-<h2 id="milestone2">Milestone 2</h2>
- 
-<p id="milestone2Info"><a href="https://github.com/islandwanderer/islandwanderer/projects/2">Milestone 2</a> Insert info about milestone 2 here.(coming soon)</p>
-
-<p id="milestone2Issues">Insert Issue info here.(coming soon)</p>
 
 ![profile_page](/images/profile.png)<br>
 
