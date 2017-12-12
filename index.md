@@ -58,14 +58,17 @@ Next students can go to their <a href="http://islandwanderer.meteorapp.com/nmein
 
 
 <h4 id="calendar">Calendar Page</h4>
-Finally, students can check their personal <a href="http://islandwanderer.meteorapp.com/nmeinzen/calendar">calendar</a>, which will show all events they have said they are going to attend.
 
-![calendar page](https://user-images.githubusercontent.com/31399883/33113156-fec4f84a-cefa-11e7-8e05-fd0549ca1c19.png)<br>
+![calendar page](./images/calendar.png)<br>
+
+Students can also check their personal calendar. If the student is signed chooses to attend an event, it will show up on their calendar.
+
 
 <h4 id="message">Message Page</h4>
-Students can then check their <a href="http://islandwanderer.meteorapp.com/nmeinzen/message">messages</a>, which will show all messages from groups they are apart of.
 
-![message_page](https://user-images.githubusercontent.com/31559898/33109276-c4b83ce0-cee4-11e7-8756-d4fef46c63eb.png)<br>
+![message_page](./images/message.png)<br>
+
+Students can then check theirmessages, which will show all messages from groups they are apart of.
 
 
 <h2 id="developerguide">Developer Guide</h2>
