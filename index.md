@@ -36,39 +36,49 @@
 
 
 <h4 id="landing">Landing Page</h4>
-The <a href="http://islandwanderer.meteorapp.com/">landing page</a> of the website has a small bit of information about the website and allows UH students to log in.<br>
+The landing page of the website has a small bit of information about the website and allows UH students to log in.<br>
 
 ![landing page](https://user-images.githubusercontent.com/31399883/33113157-fedcc01a-cefa-11e7-992c-01a8a5570fc8.png)<br>
+
+Once students click the log in button, they are immediately prompted to log into the University of Hawaii System to verify their status as a student.
+
+![login page](./images/CasLogIn.png)<br>
 
 
 <h4 id="profile">Profile Page</h4>
 
+Once logged in, students are immediately taken to their profile page where they can enter their information. Students must enter their name and their email address. They can add other contact info such as facebook, slack, twitter, etc. to their account if they would like.
+
 ![profile_page](/images/profile.png)<br>
 
-Students are then taken to their <a href="http://islandwanderer.meteorapp.com/nmeinzen/profile">profile page</a> where they can enter their information. Students must enter their name and their email address. They can add other contact info such as facebook, slack, twitter, etc. to their account if they would like.
-
-
 <h4 id="home">Home Page</h4>
-Next students can go to their <a href="http://islandwanderer.meteorapp.com/nmeinzen/home">home page</a>, which will show all new posts/events created, and if they are interetsed, they can join an event, or add a new event. 
 
-![user_homepage](https://user-images.githubusercontent.com/31559898/33109275-c485dd9a-cee4-11e7-84f5-e752a1cb7797.png)
+Next students can go to their home page. Students can search for specific events or events with key words, which will show all new events containing that information. If they are interested, they can join an event.
 
+![home page](./images/HomePage.png)<br>
 
 <h4 id="createEvent">Create Event Page</h4>
+
+Also linked to the home pages are the add event page and report event page. If a student would like to organize and event, the can click the button to add a new event. 
+
+![add event page](./images/addEvent.png)<br>
+
+Or report an event/user.
+
+![report event page](./images/reportEvent.png)<br>
 
 
 <h4 id="calendar">Calendar Page</h4>
 
+Next, students can check their personal calendar. If the student chooses to attend an event, it will show up on their calendar.
+
 ![calendar page](./images/calendar.png)<br>
-
-Students can also check their personal calendar. If the student chooses to attend an event, it will show up on their calendar.
-
 
 <h4 id="message">Message Page</h4>
 
-![message_page](./images/message.png)<br>
-
 Students can then check their messages, which will show all messages from groups they are apart of.
+
+![message_page](./images/message.png)<br>
 
 
 <h2 id="developerguide">Development</h2>
