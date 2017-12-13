@@ -17,6 +17,10 @@
   <li><a href="#m2">Milestone 2</a></li>
  </ul>
  <li><a href="#guide">Developer Guide</a></li>
+ <ul>
+  <li><a href="#install">Installation</a></li>
+  <li><a href="#modify">Modification</a></li>
+ </ul>
 </ul>
 <h4><a href="#feedback">Community Feedback</a></h4>
 
@@ -28,8 +32,6 @@
 <h2 id="userguide">User Guide</h2>
 
 <p>Students are able to log into the website and are immediately taken to the home page, which shows postings from other students, starting with the most recent posting. Users can then filter the postings by tags - locations, dates, people, etc. Students will have the option to save posts, message the poster, or post something themselves. They can also comment on a post. Students will also have access to a personal calendar, which will hold all the events the student wants to attend. Two ways to add events to the calendar is through manually entering an event, or directly addiing an event from a post. Furthermore, students can start private messages with other students, should they have any specific questions about a post or activity. Because students don't have to "friend" other students to see their posts/directly message them, there will be the option to block certain students, should there be any issues. </p>
-
-
 
 
 
@@ -73,19 +75,24 @@ Students can then check their messages, which will show all messages from groups
 <h4 id="history">Development History</h4>
 <p>In order to successfully create a working application, the building process was split into multiple tasks. The first task, Milestone 1, focused on building the foundation for the application. The second task, Milestone 2, focused on refining the foundation and increasing its functionality. Below document each task.
 <h5 id="m1">Milestone 1</h5>
-<a href="https://github.com/islandwanderer/islandwanderer/projects/1">Milestone 1's</a> purpose was to create HTML/CSS mockups of each of the pages needed for the projects. They did not have to provide functionality, but had to be integrated into the Meteor app. Each page was assigned as an issue and had to be complete within 2 weeks of the assinged date. Below are screenshots of the pages implemented.
-![user_homepage](https://user-images.githubusercontent.com/31559898/33109275-c485dd9a-cee4-11e7-84f5-e752a1cb7797.png)
-![landing page](https://user-images.githubusercontent.com/31399883/33113157-fedcc01a-cefa-11e7-992c-01a8a5570fc8.png)
-![profile_page](/images/profile.png)
-![calendar page](https://user-images.githubusercontent.com/31399883/33113156-fec4f84a-cefa-11e7-8e05-fd0549ca1c19.png)
-![message_page](https://user-images.githubusercontent.com/31559898/33109276-c4b83ce0-cee4-11e7-8756-d4fef46c63eb.png)
+<a href="https://github.com/islandwanderer/islandwanderer/projects/1">Milestone 1's</a> purpose was to create HTML/CSS mockups of each of the pages needed for the projects. They did not have to provide functionality, but had to be integrated into the Meteor app. Below are screenshots of the pages implemented.
+![user_homepage](https://user-images.githubusercontent.com/31559898/33109275-c485dd9a-cee4-11e7-84f5-e752a1cb7797.png)<br>
+![landing page](https://user-images.githubusercontent.com/31399883/33113157-fedcc01a-cefa-11e7-992c-01a8a5570fc8.png)<br>
+![profile_page](/images/profile.png)<br>
+![calendar page](https://user-images.githubusercontent.com/31399883/33113156-fec4f84a-cefa-11e7-8e05-fd0549ca1c19.png)<br>
+![message_page](https://user-images.githubusercontent.com/31559898/33109276-c4b83ce0-cee4-11e7-8756-d4fef46c63eb.png)<br>
 
+Each page was assigned as an issue and was either branched and merged into the master branch, or directly committed into the master branch. 
                                                                     
 <h5 id="m2">Milestone 2</h5>
-<a href="https://github.com/islandwanderer/islandwanderer/projects/2">Milestone 2's</a> purpose was to provide functionality to the mockup pages created in Milestone 1. Once each page was completed and functionality had been tested, the app was deployed to <a href="https://galaxy.meteor.com/app/islandwanderer.meteorapp.com">galaxy</a>.
+<a href="https://github.com/islandwanderer/islandwanderer/projects/2">Milestone 2's</a> purpose was to provide functionality to the mockup pages created in Milestone 1. Once each page was completed and functionality had been tested, the app was deployed to <a href="https://galaxy.meteor.com/app/islandwanderer.meteorapp.com">galaxy</a>. See <a href="#userguide">User Guide</a> for instructions on app usage.
 
 <h4 id="guide">Developer Guide</h4>
-<p></p>
+<h5 id="install>Installation</h5>
+In order to run Island Wanderer, <a href="https://www.meteor.com/install">Meteor</a> needs to be installed. Once this process is finished, the user must download or clone a copy of <a href="https://github.com/islandwanderer/islandwanderer">Island Wanderer</a> and cd into the app. Once the user is inside of the app, the user must install npm by running $ meteor npm install. Finally, once npm is correctly installed, the user can run the system by typing $ meteoer npm run start in the commmand promt and the app should appear on http://localhost:3000 if everything has been installed correctly.
+
+<h5 id="modify">Modification</h5>
+
 
 <h2 id="feedback">Community Feedback</h2>
 
