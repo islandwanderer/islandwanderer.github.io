@@ -125,23 +125,3 @@ Because Island Wanderer is a user oriented app, community feedback is extremely 
 
 
 <p><a href="#top">Back to top</a></p>
-
-![profile_page](/images/profile.png)<br>
-
-Profile page is similar to bowfolio app. The only difference is email of the newly signed up user is auto-populated. 
-
-![message_page](./images/message.png)<br>
-
-Message is a simple chat app where a user can choose any of the event they are subscribed to and enter the message board for the event. The event selection field is set a a reactiveDict. As any modern chat app, users message is aligned to the right and everyone else message is aligned to the left. The app further distinguishes different users with different background color on their message. A simple hash of username has been used to classify users into 7 different colors. Base collection has additional method called filter() which does filters message documents by events. As expected from any chat app, upon submition of message, messages field clears but event field does not. Clearing message was straight-forward task. However, reactive flag had to be set to the selected event after each message is entered.
-
-Future enhancement could include a sophisticated hash function that minimizes collision. Other enhancements could count number of unread messages on each of the event user is subscribed to.
-
-![calendar page](./images/calendar.png)<br>
-
-Calendar is built on fullcalendar package. Calendar page also required sub-tempate to render as expected. The event collection of the app did not meet the requirement of events constructor of the package. A function to convert relevant documents from event collection into an array of objects enabled fullcalendar events constructor to display events in the calendar. 
-
-Future enhancements could include routing event creator to event message page when the event is clicked on the calendar. Other enhancements to the calendar page could be routing to create event page when user clicks on the calendar space with no events.
-
-
-
-
