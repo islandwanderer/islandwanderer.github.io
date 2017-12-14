@@ -89,14 +89,14 @@ Students can then check their messages, which will show all messages from groups
 <h4 id="history">Development History</h4>
 <p>In order to successfully create a working application, the building process was split into multiple tasks. The first task, Milestone 1, focused on building the foundation for the application. The second task, Milestone 2, focused on refining the foundation and increasing its functionality. Below document each task.
 <h5 id="m1">Milestone 1</h5>
-<a href="https://github.com/islandwanderer/islandwanderer/projects/1">Milestone 1's</a> purpose was to create HTML/CSS mockups of each of the pages needed for the projects. They did not have to provide functionality, but had to be integrated into the Meteor app. Below are screenshots of the pages implemented.
+<p><a href="https://github.com/islandwanderer/islandwanderer/projects/1">Milestone 1's</a> purpose was to create HTML/CSS mockups of each of the pages needed for the projects. They did not have to provide functionality, but had to be integrated into the Meteor app. Below are screenshots of the pages implemented.</p>
 
 ![profile_page](./images/profile_page.png)<br>
 ![user_page](./images/user_homepage.png)<br>
 ![message_page](./images/message_page.png)<br>
 ![landing_page](./images/landing_page.png)<br>
 
-Each page was assigned as an issue and was either branched and merged into the master branch, or directly committed into the master branch. 
+<p>Each page was assigned as an issue and was either branched and merged into the master branch, or directly committed into the master branch.</p>
                                                                     
 <h5 id="m2">Milestone 2</h5>
 <a href="https://github.com/islandwanderer/islandwanderer/projects/2">Milestone 2's</a> purpose was to provide functionality to the mockup pages created in Milestone 1. Once each page was completed and functionality had been tested, the app was deployed to <a href="https://galaxy.meteor.com/app/islandwanderer.meteorapp.com">galaxy</a>. See <a href="#userguide">User Guide</a> for instructions on app usage.
