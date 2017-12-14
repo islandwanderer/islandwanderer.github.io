@@ -101,12 +101,13 @@ Each page was assigned as an issue and was either branched and merged into the m
 <h5 id="m2">Milestone 2</h5>
 <a href="https://github.com/islandwanderer/islandwanderer/projects/2">Milestone 2's</a> purpose was to provide functionality to the mockup pages created in Milestone 1. Once each page was completed and functionality had been tested, the app was deployed to <a href="https://galaxy.meteor.com/app/islandwanderer.meteorapp.com">galaxy</a>. See <a href="#userguide">User Guide</a> for instructions on app usage.
 
+
+<p><a href="#top">Back to top</a></p>
+
 <h4 id="guide">Developer Guide</h4>
 <h5 id="install">Installation</h5>
 In order to run Island Wanderer, <a href="https://www.meteor.com/install">Meteor</a> needs to be installed. Once this process is finished, the user must download or clone a copy of <a href="https://github.com/islandwanderer/islandwanderer">Island Wanderer</a> and cd into the app. Once the user is inside of the app, the user must install npm by running $ meteor npm install. Finally, once npm is correctly installed, the user can run the system by typing $ meteoer npm run start in the commmand promt and the app should appear on http://localhost:3000 if everything has been installed correctly.
 
-
-<p><a href="#top">Back to top</a></p>
 
 <h5 id="modify">Modification</h5>
 
