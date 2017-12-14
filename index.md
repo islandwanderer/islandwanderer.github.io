@@ -8,7 +8,7 @@
   <li><a href="#createEvent">Create Event Page</a></li>
  <li><a href="#calendar">Calendar Page</a></li>
  <li><a href="#message">Message Page</a></li>
- <li><a href="#admin">Admininistrative Page</a></li>
+ <li><a href="#admin">Administrative Page</a></li>
  
 </ul>
 <h4><a href="#developerguide">Development</a></h4>
