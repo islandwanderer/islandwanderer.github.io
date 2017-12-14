@@ -1,4 +1,4 @@
-<h1>Table of Contents</h1>
+<h1 id="top">Table of Contents</h1>
 <h4><a href="#overview">Overview</a></h4>
 <h4><a href="#userguide">User Guide</a></h4>
 <ul>
@@ -29,11 +29,13 @@
  
 <p>The developers of this website are current University of Hawaii students who are passionate about exploring the Hawaiian Islands and love to connect with people through adventuring. If you have any comments or questions, you can contact the developers through creating an issue on the GitHub site.</p>
 
+<p><a href="#top">Back to top</a></p>
+
 <h2 id="userguide">User Guide</h2>
 
 <p>Students are able to log into the website and are immediately taken to the home page, which shows postings from other students, starting with the most recent posting. Users can then filter the postings by tags - locations, dates, people, etc. Students will have the option to save posts, message the poster, or post something themselves. They can also comment on a post. Students will also have access to a personal calendar, which will hold all the events the student wants to attend. Two ways to add events to the calendar is through manually entering an event, or directly addiing an event from a post. Furthermore, students can start private messages with other students, should they have any specific questions about a post or activity. Because students don't have to "friend" other students to see their posts/directly message them, there will be the option to block certain students, should there be any issues. </p>
 
-
+<p><a href="#top">Back to top</a></p>
 
 <h4 id="landing">Landing Page</h4>
 The landing page of the website has a small bit of information about the website and allows UH students to log in.<br>
@@ -81,6 +83,8 @@ Students can then check their messages, which will show all messages from groups
 ![message_page](./images/message.png)<br>
 
 
+<p><a href="#top">Back to top</a></p>
+
 <h2 id="developerguide">Development</h2>
 <h4 id="history">Development History</h4>
 <p>In order to successfully create a working application, the building process was split into multiple tasks. The first task, Milestone 1, focused on building the foundation for the application. The second task, Milestone 2, focused on refining the foundation and increasing its functionality. Below document each task.
@@ -101,19 +105,25 @@ Each page was assigned as an issue and was either branched and merged into the m
 <h5 id="install">Installation</h5>
 In order to run Island Wanderer, <a href="https://www.meteor.com/install">Meteor</a> needs to be installed. Once this process is finished, the user must download or clone a copy of <a href="https://github.com/islandwanderer/islandwanderer">Island Wanderer</a> and cd into the app. Once the user is inside of the app, the user must install npm by running $ meteor npm install. Finally, once npm is correctly installed, the user can run the system by typing $ meteoer npm run start in the commmand promt and the app should appear on http://localhost:3000 if everything has been installed correctly.
 
+
+<p><a href="#top">Back to top</a></p>
+
 <h5 id="modify">Modification</h5>
 
-<p>Island Wanderer's <a href="https://github.com/islandwanderer/islandwanderer">basic structure</a> is split into three categories: app, which holds the actual application, config, which configurates all the files, and .gitignore. For modificatation, most work will be done in the app directory. Within app, there are <a href="https://github.com/islandwanderer/islandwanderer/tree/master/app">two subsections</a>: client, which holds all information pertaining to the client side of the application, and imports. Most modification will be done in imports. Depending on what modification needs to be done depends on which subfolder the developer will need to access. If the developer is interested in adding another page to the application or altering one of the existing pages, they will need to cd into the ui section and acess the pages category. This will give them access to all html/css/js code for the existing pages. If the developer would like to edit the startup of the app, they will need to access the api folder and choose startup, and decide if they would like to edit the server side of the startup, the client side, or both. The entire system follows the Meteor 1.4 guidelines.If the developer adds or deletes any pages, they will need to also edit the client/main.js page in order to maintain working order. The developer may also need to edit the router page, which is responsible for the navigation throughout the app. The router page can be found in the <a href="https://github.com/islandwanderer/islandwanderer/blob/master/app/imports/startup/client/router.js">imports/startup/client/router.js</a> directory and uses <a href="https://github.com/kadirahq/flow-router">Flow Router</a>.</p><br>
+<p>Island Wanderer's <a href="https://github.com/islandwanderer/islandwanderer">basic structure</a> is split into three categories: app, which holds the actual application, config, which configurates all the files, and .gitignore. For modificatation, most work will be done in the app directory. Within app, there are <a href="https://github.com/islandwanderer/islandwanderer/tree/master/app">two subsections</a>: client, which holds all information pertaining to the client side of the application, and imports. Most modification will be done in imports. Depending on what modification needs to be done depends on which subfolder the developer will need to access. If the developer is interested in adding another page to the application or altering one of the existing pages, they will need to cd into the ui section and acess the pages category. This will give them access to all html/css/js code for the existing pages. If the developer would like to edit the startup of the app, they will need to access the api folder and choose startup, and decide if they would like to edit the server side of the startup, the client side, or both. The entire system follows the Meteor 1.4 guidelines.If the developer adds or deletes any pages, they will need to also edit the client/main.js page in order to maintain working order. The developer may also need to edit the router page, which is responsible for the navigation throughout the app. The router page can be found in the <a href="https://github.com/islandwanderer/islandwanderer/blob/master/app/imports/startup/client/router.js">imports/startup/client/router.js</a> directory and uses <a href="https://github.com/kadirahq/flow-router">Flow Router</a>.</p>
 
-
-<p>Island Wanderer uses <a href="https://github.com/Semantic-Org/Semantic-UI-Meteor">Semantic-UI-Meteor</a> for the webpage presentation. It is integrated in the <a href="https://github.com/islandwanderer/islandwanderer/tree/master/app/client/lib/semantic-ui">app/client/lib/semantic-ui</a> directory, and any edits to the presentation of the app can be made there.</p><br>
+<p>Island Wanderer uses <a href="https://github.com/Semantic-Org/Semantic-UI-Meteor">Semantic-UI-Meteor</a> for the webpage presentation. It is integrated in the <a href="https://github.com/islandwanderer/islandwanderer/tree/master/app/client/lib/semantic-ui">app/client/lib/semantic-ui</a> directory, and any edits to the presentation of the app can be made there.</p>
 
 <p>Finally, in order to guarantee correct startup and code quality, Island Wanderer contains a <a href="https://github.com/islandwanderer/islandwanderer/tree/master/config">configuration file</a>, which holds the settings files. Furthermore, there is a directory, <a href="https://github.com/islandwanderer/islandwanderer/blob/master/.gitignore">.gitignore</a>, that allows developers to add settings that will not be committed. There is also a directory for <a href="https://github.com/islandwanderer/islandwanderer/blob/master/app/imports/startup/server/initialize-database.js">initialization</a>, which checks for empty databases and loads correct configuration files. These configuration tools, as well as all code provided for functionality, are checked for quality assurance by using ESLint, which is defined in the <a hrefe="https://github.com/islandwanderer/islandwanderer/blob/master/app/.eslintrc">.eslintrc</a> file.</p>
 
+<p><a href="#top">Back to top</a></p>
 
 <h2 id="feedback">Community Feedback</h2>
 
 Because Island Wanderer is a user oriented app, community feedback is extremely important for the continual improvement of the app. Thereofore, five University of Hawaii students were asked to examine the app and provide constuctive criticism on what they liked about the app and what could be improved. All five students agreed they liked the simplicity of the layout. They appreciated having one top menu that gave access to every page within the app on every page, meaning they could jump from page to page without having to go back to the home page. Furthermore, they liked the ease of access to events and searching mechanisms. It was simple to search for what they were interested in as well as customize their own individual event. They also provided a few insights as to how to improve the app. They suggested adding more functionality to the calendar by letting users add events directly to a date instead of having to add an event through the home page. They also suggested that the administrated be given more power to search specific users or events, instead of waiting for a flag. Overall, the users liked the app and think it would be a great addition to the UH community. 
+
+
+<p><a href="#top">Back to top</a></p>
 
 ![profile_page](/images/profile.png)<br>
 
