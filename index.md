@@ -90,11 +90,11 @@ Students can then check their messages, which will show all messages from groups
 <p>In order to successfully create a working application, the building process was split into multiple tasks. The first task, Milestone 1, focused on building the foundation for the application. The second task, Milestone 2, focused on refining the foundation and increasing its functionality. Below document each task.
 <h5 id="m1">Milestone 1</h5>
 <a href="https://github.com/islandwanderer/islandwanderer/projects/1">Milestone 1's</a> purpose was to create HTML/CSS mockups of each of the pages needed for the projects. They did not have to provide functionality, but had to be integrated into the Meteor app. Below are screenshots of the pages implemented.
-![user_homepage](https://user-images.githubusercontent.com/31559898/33109275-c485dd9a-cee4-11e7-84f5-e752a1cb7797.png)<br>
-![landing page](https://user-images.githubusercontent.com/31399883/33113157-fedcc01a-cefa-11e7-992c-01a8a5570fc8.png)<br>
-![profile_page](/images/profile.png)<br>
-![calendar page](https://user-images.githubusercontent.com/31399883/33113156-fec4f84a-cefa-11e7-8e05-fd0549ca1c19.png)<br>
-![message_page](https://user-images.githubusercontent.com/31559898/33109276-c4b83ce0-cee4-11e7-8756-d4fef46c63eb.png)<br>
+
+![profile_page](./images/profile_page.png)<br>
+![user_page](./images/user_homepage.png)<br>
+![message_page](./images/message_page.png)<br>
+![landing_page](./images/landing_page.png)<br>
 
 Each page was assigned as an issue and was either branched and merged into the master branch, or directly committed into the master branch. 
                                                                     
