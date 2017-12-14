@@ -104,9 +104,10 @@ In order to run Island Wanderer, <a href="https://www.meteor.com/install">Meteor
 <h5 id="modify">Modification</h5>
 
 
+
 <h2 id="feedback">Community Feedback</h2>
 
-
+Because Island Wanderer is a user oriented app, community feedback is extremely important for the continual improvement of the app. Thereofore, five University of Hawaii students were asked to examine the app and provide constuctive criticism on what they liked about the app and what could be improved. All five students agreed they liked the simplicity of the layout. They appreciated having one top menu that gave access to every page within the app on every page, meaning they could jump from page to page without having to go back to the home page. Furthermore, they liked the ease of access to events and searching mechanisms. It was simple to search for what they were interested in as well as customize their own individual event. They also provided a few insights as to how to improve the app. They suggested adding more functionality to the calendar by letting users add events directly to a date instead of having to add an event through the home page. They also suggested that the administrated be given more power to search specific users or events, instead of waiting for a flag. Overall, the users liked the app and think it would be a great addition to the UH community. 
 
 ![profile_page](/images/profile.png)<br>
 
