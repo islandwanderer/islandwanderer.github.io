@@ -84,6 +84,8 @@ Finally, students can then check their messages, which will show all messages fr
 
 ![message_page](./images/message.png)<br>
 
+<h4 id="admin">Administrative Page</h4>
+
 There is also an administrative page. Only the developers have access to this page. If the user signed is has also been assigned the role 'admin', they will be able to view this page, which will show any events that have been flagged. The administrator has access to delete, modify, or leave the event alone. 
 
 ![admin page_auth](./images/admin_authorized.png)<br>
