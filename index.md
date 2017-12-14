@@ -27,7 +27,7 @@
 <h4><a href="#feedback">Community Feedback</a></h4>
 
 <h2 id="overview">Overview</h2>
-<p><a href="https://github.com/islandwanderer/islandwanderer">Island Wanderer</a> is the perfect website for University of Hawaii students who want to explore the islands of Hawaii with other students. The Hawaiian Islands have a lot to offer, from hiking to snorkeling to luaus to relaxing at the beach. However, sometimes it can be hard to organize a group of people to go explore these places. Island Wanderer is here to solve this problem. Students can form groups to go on adventures together, creating countless unforgettable memories while meeting new people along the way.</p>
+<p><a href="https://github.com/islandwanderer">Island Wanderer</a> is the perfect website for University of Hawaii students who want to explore the islands of Hawaii with other students. The Hawaiian Islands have a lot to offer, from hiking to snorkeling to luaus to relaxing at the beach. However, sometimes it can be hard to organize a group of people to go explore these places. Island Wanderer is here to solve this problem. Students can form groups to go on adventures together, creating countless unforgettable memories while meeting new people along the way.</p>
  
 <p>The developers of this website are current University of Hawaii students who are passionate about exploring the Hawaiian Islands and love to connect with people through adventuring. If you have any comments or questions, you can contact the developers through creating an issue on the GitHub site.</p>
 
