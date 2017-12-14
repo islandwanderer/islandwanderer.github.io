@@ -87,7 +87,7 @@ Students can then check their messages, which will show all messages from groups
 
 <h2 id="developerguide">Development</h2>
 <h4 id="history">Development History</h4>
-<p>In order to successfully create a working application, the building process was split into multiple tasks. The first task, Milestone 1, focused on building the foundation for the application. The second task, Milestone 2, focused on refining the foundation and increasing its functionality. Below document each task.
+<p>In order to successfully create a working application, the building process was split into multiple tasks. The first task, Milestone 1, focused on building the foundation for the application. The second task, Milestone 2, focused on refining the foundation and increasing its functionality. Below document each task.</p>
 <h5 id="m1">Milestone 1</h5>
 <p><a href="https://github.com/islandwanderer/islandwanderer/projects/1">Milestone 1's</a> purpose was to create HTML/CSS mockups of each of the pages needed for the projects. They did not have to provide functionality, but had to be integrated into the Meteor app. Below are screenshots of the pages implemented.</p>
 
