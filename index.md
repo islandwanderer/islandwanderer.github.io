@@ -91,10 +91,10 @@ Students can then check their messages, which will show all messages from groups
 <h5 id="m1">Milestone 1</h5>
 <p><a href="https://github.com/islandwanderer/islandwanderer/projects/1">Milestone 1's</a> purpose was to create HTML/CSS mockups of each of the pages needed for the projects. They did not have to provide functionality, but had to be integrated into the Meteor app. Below are screenshots of the pages implemented.</p>
 
-![profile_page](./images/profile_page.png)<br>
-![user_page](./images/user_homepage.png)<br>
-![message_page](./images/message_page.png)<br>
-![landing_page](./images/landing_page.png)<br>
+![profile_page](/images/profile_page.png)
+![user_page](/images/user_homepage.png)
+![message_page](/images/message_page.png)
+![landing_page](/images/landing_page.png)
 
 <p>Each page was assigned as an issue and was either branched and merged into the master branch, or directly committed into the master branch.</p>
                                                                     
