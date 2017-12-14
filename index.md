@@ -8,6 +8,8 @@
   <li><a href="#createEvent">Create Event Page</a></li>
  <li><a href="#calendar">Calendar Page</a></li>
  <li><a href="#message">Message Page</a></li>
+ <li><a href="#admin">Admininistrative Page</a></li>
+ 
 </ul>
 <h4><a href="#developerguide">Development</a></h4>
 <ul>
@@ -78,9 +80,17 @@ Next, students can check their personal calendar. If the student chooses to atte
 
 <h4 id="message">Message Page</h4>
 
-Students can then check their messages, which will show all messages from groups they are apart of.
+Finally, students can then check their messages, which will show all messages from groups they are apart of.
 
 ![message_page](./images/message.png)<br>
+
+There is also an administrative page. Only the developers have access to this page. If the user signed is has also been assigned the role 'admin', they will be able to view this page, which will show any events that have been flagged. The administrator has access to delete, modify, or leave the event alone. 
+
+![admin page_auth](./images/admin_authorized.png)<br>
+
+If the user logged in does not have administrative access, the page will show up as 'Not Authorized'.
+
+![admin page_notauth](./images/admin_unauthorized.png)<br>
 
 
 <p><a href="#top">Back to top</a></p>
